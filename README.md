@@ -45,4 +45,4 @@ An interactive dashboard built using Microsoft Excel to analyze Zomato-style foo
 ## 📬 Contact
 
 **Sakshi Jadhav**  
-[LinkedIn]([https://www.linkedin.com/in/sakshi-jadhav-21808b274/]) |sakshi302004@gmail.com
+[LinkedIn([https://www.linkedin.com/in/sakshi-jadhav-21808b274/])] |sakshi302004@gmail.com
